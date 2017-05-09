@@ -1,0 +1,10 @@
+PersonnelId,Name,MinHours,MaxHours,PreferredHours,AbsMin,AbsMax
+1,Jordan,-1,-1,24,0,0
+2,Amritha,20,20,20,1,1
+3,Tim,15,18,-1,0,0
+4,Mehrnoosh,16,18,-1,0,0
+5,Ashley,-1,-1,15,0,0
+7,Deni,9,9,9,1,1
+8,Sara,-1,-1,15,0,0
+9,Garrett,-1,-1,17,0,0
+10,Sourav,20,20,20,1,1

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexScheduler", "FlexScheduler\FlexScheduler.csproj", "{77830AFF-1550-4BBA-8077-F909CE6C69BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexSchedulerConsoleTest", "FlexSchedulerConsoleTest\FlexSchedulerConsoleTest.csproj", "{5C63AB99-5355-4931-A73D-AA4ED368B88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{97D85115-328B-4F05-90DB-57F1C81EE0C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77830AFF-1550-4BBA-8077-F909CE6C69BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77830AFF-1550-4BBA-8077-F909CE6C69BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77830AFF-1550-4BBA-8077-F909CE6C69BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77830AFF-1550-4BBA-8077-F909CE6C69BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C63AB99-5355-4931-A73D-AA4ED368B88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C63AB99-5355-4931-A73D-AA4ED368B88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C63AB99-5355-4931-A73D-AA4ED368B88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C63AB99-5355-4931-A73D-AA4ED368B88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D85115-328B-4F05-90DB-57F1C81EE0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D85115-328B-4F05-90DB-57F1C81EE0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D85115-328B-4F05-90DB-57F1C81EE0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D85115-328B-4F05-90DB-57F1C81EE0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
